@@ -4,13 +4,14 @@
 #######################################
 #### assign a value to a variable######
 #######################################
-
+city = "Isfahan"
 # name = value
-name = "Ali"
-year = 1396
+name = "Amir"
+year = 1397
 
 ###########################################
 ###### accessing the value inside variable#
 ###########################################
+print(city)
 print(name)
 print(year)
