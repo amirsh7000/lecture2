@@ -11,3 +11,16 @@ elif(a<b):
     print("a < b")
 else:
     pass # do nothing
+
+
+
+i = 14 
+j = 9 
+if(i == j):
+    print("i == j")
+if(i > j):
+    print("i > j")
+elif(i<j):
+    print("i < j")
+else:
+    pass
