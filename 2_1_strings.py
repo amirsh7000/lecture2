@@ -31,3 +31,9 @@ print(pi)
 str_pi = str(pi)
 print("pi number is : ", pi)  # print each part of input separately
 print("pi number is : " + str(pi))  # concat two string
+
+s = 25.175
+print(s)
+str_s = str(pi)
+print("c num is : " , c)
+print("c num is : " + str(c))
